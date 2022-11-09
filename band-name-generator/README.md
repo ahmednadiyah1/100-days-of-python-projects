@@ -1,0 +1,1 @@
+A simple program of generating band names by selecting adjectives and animal names randomly
